@@ -1,10 +1,43 @@
-# TUGAS UTS PEMROGRAMAN WEB
+<div align="center">
 
-# NAMA : MUHAMMAD RAKHA GHANI
-# NIM : 312410421
-# KELAS : I24C1
+<a href="#">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=System+Breach+Detected...;SQL+Injection+Vulnerability+Analysis;Executing+Prepared+Statements...;By+Rizky+Maulana" alt="Typing SVG" />
+</a>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 
+# 🛑 𝗖𝗬𝗕𝗘𝗥 𝗦𝗘𝗖𝗨𝗥𝗜𝗧𝗬 𝗥𝗘𝗦𝗘𝗔𝗥𝗖𝗛: 𝗦𝗤𝗟 𝗜𝗡𝗝𝗘𝗖𝗧𝗜𝗢𝗡 🛑
+
+<p align="center">
+  <kbd>Status: COMPLETED</kbd> • <kbd>Level: CRITICAL</kbd> • <kbd>Target: DATABASE AUTHENTICATION</kbd>
+</p>
+
+</div>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>👨‍💻 IDENTITAS ENGINEER</h3>
+      <code>NAMA  : Rizky Maulana</code><br>
+      <code>NIM   : 312410430</code><br>
+      <code>KELAS : I241C</code><br>
+      <code>TUGAS : UTS Pemrograman Web</code>
+    </td>
+    <td width="50%" align="center">
+      <h3>🛠️ TECH STACK DASHBOARD</h3>
+      <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
 
 ## 📡 𝗣𝗨𝗕𝗟𝗜𝗞𝗔𝗦𝗜 𝗥𝗜𝗦𝗘𝗧 (𝗠𝗘𝗗𝗜𝗨𝗠)
 
